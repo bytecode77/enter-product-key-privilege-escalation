@@ -24,7 +24,7 @@ For PoC, this is sufficient. However, this is a UI heavy PoC that causes visual 
 
 When everything worked correctly, Payload.exe should be executed, displaying basic information including integrity level.
 
-![](https://bytecode77.com/images/pages/enter-product-key-privilege-escalation/result.png)
+![](https://bytecode77.com/images/pages/enter-product-key-privilege-escalation/result.webp)
 
 ## Downloads
 
